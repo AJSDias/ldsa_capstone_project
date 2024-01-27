@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"jupyter.interactiveWindow.textEditor.executeSelection": true
+	}
+}
